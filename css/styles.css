@@ -3,12 +3,13 @@ body {
   font-family: "Montserrat", sans-serif;
   background-color: #f5f7fa;
   height: auto;
+  width: 100%;
 }
 .project-description {margin:0;}
 .main-section {
   display: flex;
   flex-direction: row-reverse;
-  width: 1200px;
+  width: 100%;
   justify-content: start;
   background-color: #fff;
   /* margin: 40px auto; */
